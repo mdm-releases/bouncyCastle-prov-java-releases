@@ -1,0 +1,3 @@
+This is the releases repo for the Bouncy Castle cryptography API Provider packages for java (bcprov, for short).
+
+The official site of the Bouncy Castle project is http://www.bouncycastle.org/ ;  these jars are pulled from http://www.bouncycastle.org/latest_releases.html
